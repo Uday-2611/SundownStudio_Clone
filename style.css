@@ -8,12 +8,12 @@
 
 @font-face {
     font-family: "NeueMedium";
-    src: url("/font/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayMediu.ttf");
+    src: url("font/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayMediu.ttf");
 }
 
 @font-face {
     font-family: "NeueRoman";
-    src: url("/font/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayRoman.ttf");
+    src: url("font/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayRoman.ttf");
 }
 
 * {
